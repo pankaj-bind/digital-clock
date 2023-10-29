@@ -22,8 +22,6 @@ I've created a Java-based digital clock that displays real-time hours and minute
 
 
 ## Screenshots
-![Digital Clock](command-image.png) <br>
-Output <br>
 ![Digital Clock](digital-clock-output.png)
 
 ## Contributing
